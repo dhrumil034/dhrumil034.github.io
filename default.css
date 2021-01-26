@@ -52,6 +52,10 @@ u1 {
 	list-style: none; 
 }
 
+.inside-list {
+	
+}
+
 
 .s1 {
 	background-color: var(--mainColor);
@@ -337,9 +341,14 @@ u1 {
 	border: none;
 }
 
-.input-field {
-	 
-}
+
+
+
+
+
+
+
+
 
 
 @media screen and (max-width:1200px) {
